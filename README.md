@@ -29,3 +29,13 @@ The computer select random number, then returns information whether the number i
 
 <img width="337" height="151" alt="res" src="https://github.com/user-attachments/assets/fc700794-65a6-4ccb-a134-75d396af2aa6" />
 
+# Live Demo
+You can play the game directly in your web browser here:
+ - https://replit.com/@nikolovg892/GuessANumberByUsername-1
+
+
+
+   <img width="477" height="416" alt="demo" src="https://github.com/user-attachments/assets/16293195-96c4-47b9-b506-640957ea4d4f" />
+
+
+
